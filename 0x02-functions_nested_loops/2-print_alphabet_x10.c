@@ -15,4 +15,3 @@ while (count++ <= 9)
 		_putchar('\n');
 	}
 }
-
