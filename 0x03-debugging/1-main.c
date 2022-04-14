@@ -13,7 +13,7 @@ printf("Infinite loop incoming :(\n");
 
 i = 0;
 
-while (i < 10) // i is never incremented so it is always less than 10
+while (i < 10) /* i is never incremented so it is always less than 10 , here is the line which make it an infinite*/
 {
 putchar(i); 
 }
